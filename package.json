@@ -1,0 +1,30 @@
+{
+  "name": "disauce",
+  "version": "1.0.0",
+  "description": "Discord sauce bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8kbKiwi/disauce.git"
+  },
+  "keywords": [
+    "discord",
+    "sauce",
+    "source",
+    "bot"
+  ],
+  "author": "8kbKiwi",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/8kbKiwi/disauce/issues"
+  },
+  "homepage": "https://github.com/8kbKiwi/disauce#readme",
+  "dependencies": {
+    "discord.js": "^13.4.0",
+    "dotenv": "^10.0.0",
+    "sagiri": "^3.1.1"
+  }
+}

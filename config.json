@@ -1,0 +1,9 @@
+{
+    "commands": [
+        {
+            "name": "sauce",
+            "type": 1,
+            "description": "Use while uploading or replying to an image for the sauce"
+        }
+    ]
+}
